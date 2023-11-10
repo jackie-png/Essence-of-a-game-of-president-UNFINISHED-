@@ -1,0 +1,14 @@
+the plan
+
+1. find a way to display cards on the table when they have been selected and placed onto the table (done)
+        - find a way to display cards on the table when you press enter (done for the mpst part still need to tinker around)
+
+        make a list of numbers for spacing start with 328 +(141*1,2,3,4,5)
+
+2. implement the comparing cards and combo system(done)
+
+3. add a passing system
+
+4. add a way for the game to reset after everyone has passed
+
+other. work on player stat stuff (opponent card count, etc)
