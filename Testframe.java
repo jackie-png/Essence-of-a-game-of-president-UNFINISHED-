@@ -16,6 +16,9 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+//THIS IS NOT USED FOR THE ACTUAL GAME THE ACTUAL GAEM IS RAN ON Gameframe.java
+
+
 class Testframe extends JFrame implements MouseListener, KeyListener{
 
     /*
@@ -67,7 +70,7 @@ class Testframe extends JFrame implements MouseListener, KeyListener{
         ans = new ArrayList<Card>();
         int a = 0;
         for (int i = 0; i < 13; i++){
-            list.add(new Card(Integer.toString(i), cardImages.get(i%4)));
+            //list.add(new Card(Integer.toString(i), cardImages.get(i%4)));
         }
 
         this.setSize(1280, 757);  // window size (1280x720)

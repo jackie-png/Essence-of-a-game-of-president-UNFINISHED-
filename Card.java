@@ -1,6 +1,9 @@
 import java.awt.Color;
 import javax.swing.*;
 
+
+
+
 public class Card extends JPanel{
 
     public static enum Suites { // enum of card suites 
